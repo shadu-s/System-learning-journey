@@ -98,3 +98,13 @@ this one failed as what it does is searched for notes folder again which we alre
 
 this created the file and we just copy pasted the writings in this file..
 
+we made a new file `terminal-practice.md` inside a new folder `practice` we used
+```powershell
+mkdir
+```
+
+and then did 
+```git status```
+
+we couldn't see the file...chatgpt told me that git can't locate this file. And then we added it with git add and then pushed it...
+
